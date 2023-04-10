@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/7c/ec/3f/7cec3f65f6c0c595e45f61dbc2ff3f0f.gif)
+![logo](https://i.pinimg.com/originals/31/75/58/3175581b741141257d40ed2553acddbb.gif)
 <h1 align="center">Hi 👋, I'm MFarooq-Ahmed</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 

@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/31/75/58/3175581b741141257d40ed2553acddbb.gif)
+![logo](https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif)
 <h1 align="center">Hi 👋, I'm MFarooq-Ahmed</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
